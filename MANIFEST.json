@@ -1,0 +1,293 @@
+{
+  "snapshot_date": "2026-10-16",
+  "file_count": 41,
+  "files": [
+    {
+      "path": "archive/superseded/BigData_Week2_Student_学生直接发放包-去重深化版.zip",
+      "filename": "BigData_Week2_Student_学生直接发放包-去重深化版.zip",
+      "size_bytes": 226470,
+      "sha256": "1470e91a961a2dd88b2625f13ddea97b7d64e0c29f99273e6ffcd8e3b9610ec9",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/BigData_Week2_Student_学生直接发放包.zip",
+      "filename": "BigData_Week2_Student_学生直接发放包.zip",
+      "size_bytes": 193230,
+      "sha256": "4f84b4a7fc71c79424efad07bf47e82e3ac42d242686ecd75028a2b7e160a1e3",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第1次课-100分钟资料包.zip",
+      "filename": "大数据处理技术-第1次课-100分钟资料包.zip",
+      "size_bytes": 111594,
+      "sha256": "e289b398bdbff4b7a8c8a9d05f0c503133d7f68463e018f5b9be9859e0a6a1e4",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第2次课-100分钟资料包.zip",
+      "filename": "大数据处理技术-第2次课-100分钟资料包.zip",
+      "size_bytes": 110952,
+      "sha256": "c14798d9c89d58332f1540cc4ff8fa93db04bac2b9e3f39d92151b069d8ffbf2",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第3次课-100分钟资料包.zip",
+      "filename": "大数据处理技术-第3次课-100分钟资料包.zip",
+      "size_bytes": 111544,
+      "sha256": "2fdfeb7668fac8c02aa5e20e9f409d32bb7f92f453f82c72d7e4023587662d0d",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第3次课资料包-v3.zip",
+      "filename": "大数据处理技术-第3次课资料包-v3.zip",
+      "size_bytes": 190537,
+      "sha256": "cdc750bf69928e9f41a406e1fb65b78bf763be4d36a491502009dd627fc16cf8",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第4次课资料包-第二周-去重深化版.zip",
+      "filename": "大数据处理技术-第4次课资料包-第二周-去重深化版.zip",
+      "size_bytes": 140111,
+      "sha256": "65c4895df19bf756cd5331bbffe4f625f6584a79b5a18499153b2e9c3017659f",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第4次课资料包-第二周.zip",
+      "filename": "大数据处理技术-第4次课资料包-第二周.zip",
+      "size_bytes": 147044,
+      "sha256": "a8725eb758b17207e92c8c7feb9c569aa77f92f796d779551507858eb5dbfd5e",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第5次课资料包-第二周-去重深化版.zip",
+      "filename": "大数据处理技术-第5次课资料包-第二周-去重深化版.zip",
+      "size_bytes": 143911,
+      "sha256": "63b7f63207671bfb9e756aabb1469281783bd36f1dbb6dd737dda10df4bb9531",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第5次课资料包-第二周.zip",
+      "filename": "大数据处理技术-第5次课资料包-第二周.zip",
+      "size_bytes": 148891,
+      "sha256": "91f6c5d2510b1826762256f971600ded9039de6c39dde6017bde2ada551532a0",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第6次课实验一资料包-第二周-去重深化版.zip",
+      "filename": "大数据处理技术-第6次课实验一资料包-第二周-去重深化版.zip",
+      "size_bytes": 174788,
+      "sha256": "2eefee15e54dd841a19d7b88701bfcd9732826a71fe2b613f13b4a8a9c18f2ff",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第6次课实验一资料包-第二周.zip",
+      "filename": "大数据处理技术-第6次课实验一资料包-第二周.zip",
+      "size_bytes": 181602,
+      "sha256": "c984b0a8bf4262c3dea3c289cc672d44782c4bf33396306ba09478080da43004",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第一周三次课-完整资料包-v2.zip",
+      "filename": "大数据处理技术-第一周三次课-完整资料包-v2.zip",
+      "size_bytes": 334856,
+      "sha256": "8f4ce160f78bc4bc8480608996cd10f6e5192fb421e44fab22807f103be163c1",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第一周教学材料包.zip",
+      "filename": "大数据处理技术-第一周教学材料包.zip",
+      "size_bytes": 140867,
+      "sha256": "89f805a442b929451302293d35f8037612631f3761c2d6ac999f79e8ae025354",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第二周三次课完整资料包-去重深化版.zip",
+      "filename": "大数据处理技术-第二周三次课完整资料包-去重深化版.zip",
+      "size_bytes": 503125,
+      "sha256": "23869efeeb424efdd6e7e51ca4e3e9ea22953517ffb8b7786a3b5d94c278e37d",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "archive/superseded/大数据处理技术-第二周三次课完整资料包.zip",
+      "filename": "大数据处理技术-第二周三次课完整资料包.zip",
+      "size_bytes": 480040,
+      "sha256": "4106f8c9515612a7c55af457694a9aabf8b5ae3fee85e5ac75a19dca77e26417",
+      "role": "historical-superseded"
+    },
+    {
+      "path": "course-control/08_第7至17周课程进度重排与96学时核算_讨论稿.docx",
+      "filename": "08_第7至17周课程进度重排与96学时核算_讨论稿.docx",
+      "size_bytes": 46214,
+      "sha256": "bdce8a2e9dd49d7777c294ae27c0f88da25cef1b92030f70b96aee0d24c24990",
+      "role": "progress-rearrangement-draft"
+    },
+    {
+      "path": "course-control/大数据处理技术-48次课整体教学方案-系主任汇报版.docx",
+      "filename": "大数据处理技术-48次课整体教学方案-系主任汇报版.docx",
+      "size_bytes": 55090,
+      "sha256": "03006b30207eb39e7294a273beb06bbffb68d8d0cff3dfdf4d96d491554030db",
+      "role": "historical-course-control"
+    },
+    {
+      "path": "course-control/大数据处理技术课程总控与后续生成规范.docx",
+      "filename": "大数据处理技术课程总控与后续生成规范.docx",
+      "size_bytes": 56843,
+      "sha256": "51a819c4800f3c755e1bb397be9fee25682f0189c96b74ca352de06022f6e1fc",
+      "role": "historical-course-control"
+    },
+    {
+      "path": "lessons/L01/大数据处理技术-第1次课资料包-v3.zip",
+      "filename": "大数据处理技术-第1次课资料包-v3.zip",
+      "size_bytes": 183151,
+      "sha256": "33178f014aee809ed4f6e6ddcc37fef862139c21b4f63ca331e6194651e76632",
+      "role": "lesson1-current"
+    },
+    {
+      "path": "lessons/L02/大数据处理技术-第2次课资料包-v3.zip",
+      "filename": "大数据处理技术-第2次课资料包-v3.zip",
+      "size_bytes": 184911,
+      "sha256": "e3540c732a16b017a7f721033871fc4195f0b194b86826995e0c0070cc459359",
+      "role": "lesson2-current"
+    },
+    {
+      "path": "lessons/L03/大数据处理技术-第一周第3次课-最终版完整资料包.zip",
+      "filename": "大数据处理技术-第一周第3次课-最终版完整资料包.zip",
+      "size_bytes": 200679,
+      "sha256": "f16829284c9517dbfdbfd3af0ef5e07f3cb68e5460ea900adcfc3c85804168bb",
+      "role": "lesson3-current"
+    },
+    {
+      "path": "lessons/L04/大数据处理技术-第4次课-100分钟充实版资料包.zip",
+      "filename": "大数据处理技术-第4次课-100分钟充实版资料包.zip",
+      "size_bytes": 272265,
+      "sha256": "da8961d8a5f4b3acd059d6d409d2129bd1e4945c252a4981e9198525c3ff3ebe",
+      "role": "lesson4-current"
+    },
+    {
+      "path": "lessons/L05/大数据处理技术-第5次课-100分钟充实版资料包.zip",
+      "filename": "大数据处理技术-第5次课-100分钟充实版资料包.zip",
+      "size_bytes": 359446,
+      "sha256": "2f9c24c0893ff9045e6f217dcd452b8571b8de9165fc7d25a376523fb113e361",
+      "role": "lesson5-current"
+    },
+    {
+      "path": "lessons/L06/大数据处理技术-第6次课-MapReduce_WordCount-100分钟修订版资料包.zip",
+      "filename": "大数据处理技术-第6次课-MapReduce_WordCount-100分钟修订版资料包.zip",
+      "size_bytes": 347103,
+      "sha256": "3a80fbcb7d2fc53a3e8363439447eaaa2538654cfd7b509c10dc02be911710c4",
+      "role": "lesson6-current"
+    },
+    {
+      "path": "lessons/L07/大数据处理技术-第7次课-MapReduce业务统计-100分钟充实版资料包.zip",
+      "filename": "大数据处理技术-第7次课-MapReduce业务统计-100分钟充实版资料包.zip",
+      "size_bytes": 374479,
+      "sha256": "86c2b44cf8ec31cf27b9d4cfa1fa247c7ecb398ef9241ad8d5518a54ed12d94d",
+      "role": "lesson7-current"
+    },
+    {
+      "path": "lessons/L08/大数据处理技术-第8次课-Shuffle与YARN-100分钟充实版资料包.zip",
+      "filename": "大数据处理技术-第8次课-Shuffle与YARN-100分钟充实版资料包.zip",
+      "size_bytes": 375310,
+      "sha256": "44a044139159ac38195b1c3a6c6cbacb8b8ee86b40c285cbde317176c669de23",
+      "role": "lesson8-current"
+    },
+    {
+      "path": "lessons/L09/大数据处理技术-第9次课-Hive入门与安装-100分钟充实版资料包.zip",
+      "filename": "大数据处理技术-第9次课-Hive入门与安装-100分钟充实版资料包.zip",
+      "size_bytes": 401366,
+      "sha256": "2e1e64b93b192d3d6878230ee745a7339a62ee7074a2507d8a6ad5fe8f33bc9e",
+      "role": "lesson9-current"
+    },
+    {
+      "path": "lessons/L10/大数据处理技术-第10次课-Hive分区与Join-100分钟完整资料包.zip",
+      "filename": "大数据处理技术-第10次课-Hive分区与Join-100分钟完整资料包.zip",
+      "size_bytes": 1199959,
+      "sha256": "8defc69d969e83f1561d56fed3e639e4da23619f8e7bdcbfbde4af36484962c7",
+      "role": "lesson10-current"
+    },
+    {
+      "path": "lessons/L11/大数据处理技术-第11次课-Spark导论与PySpark首秀-完整资料包.zip",
+      "filename": "大数据处理技术-第11次课-Spark导论与PySpark首秀-完整资料包.zip",
+      "size_bytes": 421288,
+      "sha256": "cfe2524f09f111a86631ce317b4a64a3af82bf2100e7f7a9d345f576fea1bb34",
+      "role": "lesson11-current"
+    },
+    {
+      "path": "student-packs/L03/BigData_Lesson3_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson3_Student_学生直接发放包.zip",
+      "size_bytes": 43837,
+      "sha256": "8852dfa57272be99e7038de3a445fc726c7faef64ce242bce6da563ef887bf8a",
+      "role": "student3-current"
+    },
+    {
+      "path": "student-packs/L05/BigData_Lesson5_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson5_Student_学生直接发放包.zip",
+      "size_bytes": 83535,
+      "sha256": "b7ef66929cfeac7025ab800ad9e24f42c0afe4e2632a5f3c3f5f92132050bcc3",
+      "role": "student5-current"
+    },
+    {
+      "path": "student-packs/L06/BigData_Lesson6_Student_学生直接发放包-修订版.zip",
+      "filename": "BigData_Lesson6_Student_学生直接发放包-修订版.zip",
+      "size_bytes": 158536,
+      "sha256": "299db42f0787f3a6c8db6d0b44aa3e783c3cc044403daa13bc0a3746a6b2fbc0",
+      "role": "student6-current"
+    },
+    {
+      "path": "student-packs/L07/BigData_Lesson7_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson7_Student_学生直接发放包.zip",
+      "size_bytes": 186007,
+      "sha256": "96fa1e0b39a5a7a22904ce1defb8f28ec07ca0e50cc5925148d985c42075f225",
+      "role": "student7-current"
+    },
+    {
+      "path": "student-packs/L08/BigData_Lesson8_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson8_Student_学生直接发放包.zip",
+      "size_bytes": 184012,
+      "sha256": "78e4cc6afb9f0223a0eeee683af4ac9de5096d0c9fbce0da832f3456aa5c8b26",
+      "role": "student8-current"
+    },
+    {
+      "path": "student-packs/L09/BigData_Lesson9_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson9_Student_学生直接发放包.zip",
+      "size_bytes": 208767,
+      "sha256": "f85c4952ca180ef3a637db044d6408955b6bf953d7607090c4c8ca256492d345",
+      "role": "student9-current"
+    },
+    {
+      "path": "student-packs/L10/BigData_Lesson10_Student_学生直接发放包.zip",
+      "filename": "BigData_Lesson10_Student_学生直接发放包.zip",
+      "size_bytes": 640252,
+      "sha256": "c9eec6fdfd8abff52eb139f48434d79c55ef4b55854940ed9de759ee96f547ce",
+      "role": "student10-current"
+    },
+    {
+      "path": "student-packs/L11/大数据处理技术-第11次课-学生直接发放包.zip",
+      "filename": "大数据处理技术-第11次课-学生直接发放包.zip",
+      "size_bytes": 177604,
+      "sha256": "2fbdff8a835c77e4578f7688d6e339e879bfd1d6d54553089e5c8ab60570ddc1",
+      "role": "student11-current"
+    },
+    {
+      "path": "supplements/大数据处理技术-第一周三次课零基础完整教程.docx",
+      "filename": "大数据处理技术-第一周三次课零基础完整教程.docx",
+      "size_bytes": 63406,
+      "sha256": "4d7ce2edfaf2caba4ebafcfe7b996f22713bcc5b7bc8fe68a0b5cc8238f2a24d",
+      "role": "supplement"
+    },
+    {
+      "path": "supplements/大数据处理技术课程-Linux最小必备简易教程.docx",
+      "filename": "大数据处理技术课程-Linux最小必备简易教程.docx",
+      "size_bytes": 55370,
+      "sha256": "8c0342862b31c96065851f712ec0a42c24300d3238c629acc186071ae5a061b2",
+      "role": "supplement"
+    },
+    {
+      "path": "supplements/大数据处理技术课程-Maven安装与最小使用保姆式教程.docx",
+      "filename": "大数据处理技术课程-Maven安装与最小使用保姆式教程.docx",
+      "size_bytes": 47956,
+      "sha256": "61c130b4bcd20a10a6bdccb6fd929e940276d2b5a0a332e2c20e059cbd11122a",
+      "role": "supplement"
+    }
+  ]
+}
