@@ -1,6 +1,6 @@
 {
-  "snapshot_date": "2026-10-16",
-  "file_count": 41,
+  "snapshot_date": "2026-11-01",
+  "file_count": 45,
   "files": [
     {
       "path": "archive/superseded/BigData_Week2_Student_学生直接发放包-去重深化版.zip",
@@ -213,6 +213,20 @@
       "role": "lesson11-current"
     },
     {
+      "path": "lessons/L12/L12_REVISED_20261028_RDD_HDFS_Join_Teacher.zip",
+      "filename": "L12_REVISED_20261028_RDD_HDFS_Join_Teacher.zip",
+      "size_bytes": 474329,
+      "sha256": "2c14497b1e1c55dec9e553f74574e2018c989c9cd3f72f0a13221008489bf007",
+      "role": "teacher12-current"
+    },
+    {
+      "path": "lessons/L13/13次课教师包.zip",
+      "filename": "13次课教师包.zip",
+      "size_bytes": 562913,
+      "sha256": "27f0b21f1072b38b354f5b026b7d0341ea0e99a4c1b9e11510fe20a0b574ed5d",
+      "role": "teacher13-current"
+    },
+    {
       "path": "student-packs/L03/BigData_Lesson3_Student_学生直接发放包.zip",
       "filename": "BigData_Lesson3_Student_学生直接发放包.zip",
       "size_bytes": 43837,
@@ -267,6 +281,20 @@
       "size_bytes": 177604,
       "sha256": "2fbdff8a835c77e4578f7688d6e339e879bfd1d6d54553089e5c8ab60570ddc1",
       "role": "student11-current"
+    },
+    {
+      "path": "student-packs/L12/L12_REVISED_20261028_RDD_HDFS_Join_Student.zip",
+      "filename": "L12_REVISED_20261028_RDD_HDFS_Join_Student.zip",
+      "size_bytes": 274878,
+      "sha256": "956b0068cb9fe8a9c604c9619443d94534c3a30f985d89d97f7e9831fcbb8dba",
+      "role": "student12-current"
+    },
+    {
+      "path": "student-packs/L13/13次课学生包.zip",
+      "filename": "13次课学生包.zip",
+      "size_bytes": 273672,
+      "sha256": "fc2db010fc3f16c39c6c97effb564a3683506a9abb40956bbd470f055aaefa41",
+      "role": "student13-current"
     },
     {
       "path": "supplements/大数据处理技术-第一周三次课零基础完整教程.docx",
