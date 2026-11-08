@@ -1,6 +1,6 @@
 {
-  "snapshot_date": "2026-11-01",
-  "file_count": 45,
+  "snapshot_date": "2026-11-08",
+  "file_count": 51,
   "files": [
     {
       "path": "archive/superseded/BigData_Week2_Student_学生直接发放包-去重深化版.zip",
@@ -227,6 +227,27 @@
       "role": "teacher13-current"
     },
     {
+      "path": "lessons/L14/大数据处理技术-第14次课-实验三-SparkRDD转换与聚合-完整教师包-v2.zip",
+      "filename": "大数据处理技术-第14次课-实验三-SparkRDD转换与聚合-完整教师包-v2.zip",
+      "size_bytes": 725069,
+      "sha256": "734858a9c099f41f8bdf37e547b86fb932c33d07c3ee7ec5ba929210a6266024",
+      "role": "teacher14-current"
+    },
+    {
+      "path": "lessons/L15/大数据处理技术-第15次课-SparkSQL业务分析-完整教师包.zip",
+      "filename": "大数据处理技术-第15次课-SparkSQL业务分析-完整教师包.zip",
+      "size_bytes": 3290682,
+      "sha256": "1fdf9a415475411d3d4518e8b1c2c4521f4b9525de31b08bfdddfc38683a4d08",
+      "role": "teacher15-current"
+    },
+    {
+      "path": "lessons/L16/大数据处理技术-第16次课-结构化数据读写与结果交付-完整教师包.zip",
+      "filename": "大数据处理技术-第16次课-结构化数据读写与结果交付-完整教师包.zip",
+      "size_bytes": 4856362,
+      "sha256": "26f6fb7976127a26db470fd0fc5f4f0e0d0c7df07856c0c24e69771872e3af7d",
+      "role": "teacher16-current"
+    },
+    {
       "path": "student-packs/L03/BigData_Lesson3_Student_学生直接发放包.zip",
       "filename": "BigData_Lesson3_Student_学生直接发放包.zip",
       "size_bytes": 43837,
@@ -295,6 +316,27 @@
       "size_bytes": 273672,
       "sha256": "fc2db010fc3f16c39c6c97effb564a3683506a9abb40956bbd470f055aaefa41",
       "role": "student13-current"
+    },
+    {
+      "path": "student-packs/L14/大数据处理技术-第14次课-实验三-学生直接发放包-v2.zip",
+      "filename": "大数据处理技术-第14次课-实验三-学生直接发放包-v2.zip",
+      "size_bytes": 360948,
+      "sha256": "43dd3dd2610ffcbfa9d2a143cfeac9353e74c8b4cb14a710dfb87b6d61b45954",
+      "role": "student14-current"
+    },
+    {
+      "path": "student-packs/L15/大数据处理技术-第15次课-SparkSQL业务分析-学生直接发放包.zip",
+      "filename": "大数据处理技术-第15次课-SparkSQL业务分析-学生直接发放包.zip",
+      "size_bytes": 1680416,
+      "sha256": "dbf221e33dbaca3b71438b42cddd307eaf726f31b4176afa9022b645d68eec44",
+      "role": "student15-current"
+    },
+    {
+      "path": "student-packs/L16/大数据处理技术-第16次课-结构化数据读写与结果交付-学生直接发放包.zip",
+      "filename": "大数据处理技术-第16次课-结构化数据读写与结果交付-学生直接发放包.zip",
+      "size_bytes": 3577026,
+      "sha256": "2e2f31514af5f39d2a0feb56378d0b7a289795897f0f91c12bbb2a13c439dc2e",
+      "role": "student16-current"
     },
     {
       "path": "supplements/大数据处理技术-第一周三次课零基础完整教程.docx",
